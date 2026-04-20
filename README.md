@@ -1,2 +1,18 @@
 # Controladobancario_basico_java_alura
  a ideia é controlarmos nossa conta bancária virtual e nomearemos os métodos como recebeTransferencia(), fazTransferencia(), enviaPix() ou recebePix()
+***********************
+Dados iniciais do cliente:
+
+Nome: Jacqueline Oliveira
+Tipo conta: Corrente
+Saldo inicial: R$ 2500,00
+***********************
+
+Operações
+
+1- Consultar saldos
+2- Receber valor
+3- Transferir valor
+4- Sair
+
+Digite a opção desejada:
